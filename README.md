@@ -2,7 +2,6 @@
 
 Atelier is a unified web platform designed to connect artists, galleries, collectors, and art enthusiasts in one centralized space. It enables artisans to professionally showcase their work while allowing buyers to discover, purchase, or request custom-made artworks with ease.
 
----
 
 ## Project Overview
 
@@ -14,7 +13,6 @@ Many contemporary artists rely on fragmented social media platforms or limited l
 
 Atelier provides a centralized, purpose-built platform that streamlines interactions between artists and buyers. The system offers professional artisan profiles, clear artwork listings, and a structured commission process to enhance trust, transparency, and communication within the art community.
 
----
 
 ## Key Features
 
@@ -38,7 +36,7 @@ Atelier provides a centralized, purpose-built platform that streamlines interact
 - Group-by-shop cart system.
 - Personal wishlist for registered users.
 
----
+
 
 ## Tech Stack
 
@@ -53,14 +51,14 @@ Atelier provides a centralized, purpose-built platform that streamlines interact
 - MongoDB – NoSQL database for users, products, and artisan profiles  
 - Nodemailer – Automated email notifications for commission requests  
 
----
+
 
 ## Tools & Deployment
 - Git & GitHub – Version control and collaboration  
 - Trello – Agile project management and sprint tracking  
 - VS Code – Primary development environment  
 
----
+
 
 ## My Role & Contributions
 
